@@ -1,0 +1,10 @@
+{
+  "accept": [
+    ".*google.com.*",
+    "m.facebook.com"
+  ],
+  "deny": [
+    ".*facebook.com.*",
+    "yahoo.com"
+  ]
+}
